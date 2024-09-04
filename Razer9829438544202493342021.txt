@@ -1,0 +1,29 @@
+
+	 	 	 	 Details of the bill
+	 	 	 	 SANSKRITI APPLIANCE
+	 	 	 Hattiban, Lalitpur| Phone No:9825254001
+----------------------------------------------------------------
+The Details of the Laptop are:
+----------------------------------------------------------------
+Name of the Company: Razer
+
+Contact_number: 9829438544
+
+     -------------------------------------------------------------
+	 	Details of the purchase made:
+     -------------------------------------------------------------
+
+
+Laptop Name	Quantity	Price		Total
+---------------------------------------------------------------
+Razer Blade   	 34	       $2000 	        $68000
+
+-----------------------------------------------------------------
+Total amount: 68000
+
+Vat amount: 8840.0
+
+Grand Total: $76840.0
+
+Shipping cost is added to the main total
+

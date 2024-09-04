@@ -1,0 +1,27 @@
+
+				 Details of the bill
+			  	SANSKRITI APPLIANCE
+	 	 	Hattiban, Lalitpur| Phone No:9825254001
+
+-------------------------------------
+The details of the Laptop are:
+-------------------------------------
+Name_of_the_customer: Sanskriti 
+
+Contact_number: 9866358821
+   --------------------------------------------
+	Details of the purchase made:
+   ---------------------------------------------
+Laptop Name	Quantity    Price	Total
+-----------------------------------------------
+Razer Blade   	 100       $2000 	$200000
+-----------------------------------------------
+
+Total amount: 200000
+
+Shipping cost is: 150
+
+Grand Total: $200150
+
+Shipping cost is added to the main total
+
